@@ -91,7 +91,7 @@ wget https://github.com/snail007/goproxy/releases/download/v4.9/proxy-linux-amd6
 
 download shadowtunnel program, execute below on line command on vps with root：
 
-wget https://github.com/snail007/shadowtunnel/releases/download/v1.1/shadowtunnel-linux-amd64.tar.gz && tar zxfv shadowtunnel-linux-amd64.tar.gz && rm shadowtunnel-linux-amd64.tar.gz && mv shadowtunnel /usr/bin/
+wget https://github.com/bhzhu203/shadowtunnel/releases/download/v1.1/shadowtunnel-linux-amd64.tar.gz && tar zxfv shadowtunnel-linux-amd64.tar.gz && rm shadowtunnel-linux-amd64.tar.gz && mv shadowtunnel /usr/bin/
 
 start a tunnel on vps listening on :50000 and forward to 127.0.0.1:38080 ：
 
@@ -127,7 +127,7 @@ download http proxy program, execute below on line command on vps with root：
 
 download shadowtunnel program, execute below on line command on vps with root：
 
-`wget https://github.com/snail007/shadowtunnel/releases/download/v1.1/shadowtunnel-linux-amd64.tar.gz && tar zxfv shadowtunnel-linux-amd64.tar.gz && rm shadowtunnel-linux-amd64.tar.gz && mv shadowtunnel /usr/bin/`
+`wget https://github.com/bhzhu203/shadowtunnel/releases/download/v1.1/shadowtunnel-linux-amd64.tar.gz && tar zxfv shadowtunnel-linux-amd64.tar.gz && rm shadowtunnel-linux-amd64.tar.gz && mv shadowtunnel /usr/bin/`
 
 start a tunnel on vps listening on udp :50000 and forward to tcp 127.0.0.1:38080 ：
 

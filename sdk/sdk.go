@@ -3,7 +3,7 @@ package main
 import (
 	"C"
 
-	stcore "github.com/snail007/shadowtunnel/core"
+	stcore "github.com/bhzhu203/shadowtunnel/core"
 )
 
 //export Start

@@ -34,7 +34,7 @@ import (
 	utils "github.com/bhzhu203/goproxy6.9/utils"
 	jumper "github.com/bhzhu203/goproxy6.9/utils/jumper"
 	lbx "github.com/bhzhu203/goproxy6.9/utils/lb"
-	redirx "github.com/snail007/shadowtunnel/redir"
+	redirx "github.com/bhzhu203/shadowtunnel/redir"
 )
 
 const (

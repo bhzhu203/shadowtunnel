@@ -1,7 +1,7 @@
 #/bin/bash
 VERSION=$(cat ../VERSION)
 VER="${VERSION}_$(date '+%Y%m%d%H%M%S')"
-X="-X github.com/snail007/shadowtunnel/core.VERSION=$VER"
+X="-X github.com/bhzhu203/shadowtunnel/core.VERSION=$VER"
 TRIMPATH1="/Users/snail/go/src/github.com/snail007"
 TRIMPATH=$(dirname ~/go/src/github.com/snail007)/snail007
 if [ -d "$TRIMPATH1" ];then
